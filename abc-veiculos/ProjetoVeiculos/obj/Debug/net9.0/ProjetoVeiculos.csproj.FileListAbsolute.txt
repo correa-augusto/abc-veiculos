@@ -1,0 +1,30 @@
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.exe
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.deps.json
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.runtimeconfig.json
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.dll
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.pdb
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.AssemblyInfoInputs.cache
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.AssemblyInfo.cs
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.sourcelink.json
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.dll
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\refint\ProjetoVeiculos.dll
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.pdb
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.genruntimeconfig.cache
+C:\Users\Nícolas\Desktop\carrostioLu\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ref\ProjetoVeiculos.dll
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.exe
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.deps.json
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.runtimeconfig.json
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.dll
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\bin\Debug\net9.0\ProjetoVeiculos.pdb
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.AssemblyInfoInputs.cache
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.AssemblyInfo.cs
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.sourcelink.json
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.dll
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\refint\ProjetoVeiculos.dll
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.pdb
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ProjetoVeiculos.genruntimeconfig.cache
+C:\Users\Augusto\Desktop\abc veiculos\abc-veiculos\ProjetoVeiculos\obj\Debug\net9.0\ref\ProjetoVeiculos.dll
